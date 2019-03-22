@@ -5,7 +5,7 @@ Package.describe({
 });
 
 Npm.depends({
-    'intl-tel-input': '12.1.9'
+    'intl-tel-input': '15.0.0'
 });
 
 Package.onUse(function(api) {
